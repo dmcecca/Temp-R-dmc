@@ -3,3 +3,7 @@ y=40*2+rnorm(10,0,5)
 plot(x,y)
 summary(x)
 median(x)
+
+mean(y)
+mean(x)
+plot(y,x)
